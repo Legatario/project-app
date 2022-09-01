@@ -5,7 +5,7 @@ import Dashboard from './components/Dashboard/dashbord';
 function App() {
   return(
     <div className='App'>
-      <Dashboard/>
+      <Dashboard title="Meu painel de Controle"/>
     </div>
   ); 
 }
